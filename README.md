@@ -1,6 +1,6 @@
-# 35MM Batch site
+# 35mm Retro site
 
-This is the public static support site for 35MM Batch.
+This is the public static support site for 35mm Retro.
 
 It contains:
 
